@@ -1,5 +1,8 @@
 ---
-layout: default
+title: ThinkAgile CP
+keywords: introduction, getting started, overview
+last_updated: July 22, 2020
+permalink: index
 ---
 # ThinkAgile CP
 
@@ -12,6 +15,8 @@ layout: default
     -   [What is new in Version 5.0.0](what-is-new-v5-0-0.md)
 -   [Getting Started](getting-started-introduction.md)
     -   [What is ThinkAgile CP?](getting-started-what-is-thinkagile-cp.md)
+        -   [How does ThinkAgile CP work?](getting-started-how-does-it-work.md)
+        -   [What can I do with ThinkAgile CP?](getting-started-what-can-do.md)
         -   [How is ThinkAgile CP deployed? How do I access and use it?](getting-started-how-cp-deployed.md)
         -   [ThinkAgile CP4000 Series Overview](starter_series_introduction.md)
         -   [ThinkAgile CP6000 Series Overview](enterprise_series_introduction.md)
