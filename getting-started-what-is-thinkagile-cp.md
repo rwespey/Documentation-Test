@@ -1,10 +1,9 @@
 ---
 title: What is ThinkAgile CP
-tags: [formatting]
+layout: default
 keywords: introduction, getting started, overview
 last_updated: July 21, 2020
 summary: "ThinkAgile CP is a private cloud software platform, purpose-built to deliver a full-fledged, all-in-one cloud infrastructure that is ready for use out of the box."
-sidebar: mydoc_sidebar
 permalink: getting-started-what-is-thinkagile-cp
 ---
 
