@@ -1,4 +1,3 @@
-
 ---
 title: What is new in Version 5.1.2
 keywords: introduction, getting started, overview
