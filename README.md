@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ThinkAgile CP
-nav_order: 2
+title: Welcome to GitHub Pages
+nav_order: 9
 ---
 ## Welcome to GitHub Pages
 
