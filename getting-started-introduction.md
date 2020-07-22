@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 keywords: introduction, getting started, overview
-nav_order: 2
+nav_order: 3
 last_updated: July 22, 2020
 summary: "ThinkAgile CP is a private cloud software platform, purpose-built to deliver a full-fledged, all-in-one cloud infrastructure that is ready for use out of the box."
 permalink: getting-started-introduction
