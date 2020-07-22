@@ -1,5 +1,8 @@
-- title: ThinkAgile CP
-  url: README.html
+docs_list_title: ThinkAgile CP
+docs:
+
+- title: ThinkAgile CP Welcome
+  url: /README.html
 - title: PDF files
   url: PDF_files.html
 - title: What is new
