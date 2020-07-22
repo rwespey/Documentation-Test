@@ -4,6 +4,7 @@ keywords: introduction, getting started, overview
 last_updated: July 22, 2020
 permalink: what-is-new-v5-1-1
 parent: What is new
+nav_order: 2
 ---
 
 # What is new in Version 5.1.1
