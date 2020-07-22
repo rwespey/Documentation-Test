@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ThinkAgile CP
 
 -   [PDF files](pdf_files.md)
