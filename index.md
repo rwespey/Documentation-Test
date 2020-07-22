@@ -1,5 +1,5 @@
 ---
-title: ThinkAgile CP
+title: ThinkAgile CP Intro
 keywords: introduction, getting started, overview
 last_updated: July 22, 2020
 permalink: index
