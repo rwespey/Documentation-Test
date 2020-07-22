@@ -3,6 +3,7 @@ title: What is new in Version 5.1.2
 keywords: introduction, getting started, overview
 last_updated: July 22, 2020
 permalink: what-is-new-current-release
+parent: What is new
 ---
 
 # What is new in Version 5.1.2
