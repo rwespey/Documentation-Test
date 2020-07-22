@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome to GitHub Pages
-nav_order: 9
+nav_exclude: true
 ---
 ## Welcome to GitHub Pages
 
