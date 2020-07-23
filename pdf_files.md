@@ -1,7 +1,9 @@
 ---
 title: PDF files
 layout: default
-nav_order: 2
+nav_order: 3
+---
+
 # PDF files
 
 The following Lenovo publications are available in PDF format.
