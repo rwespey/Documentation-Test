@@ -8,7 +8,7 @@ permalink: getting-started-how-does-it-work
 parent: What is ThinkAgile CP?
 ---
 
-# How does ThinkAgile CP work?
+# How does ThinkAgile CP work? TODAY
 
 The ThinkAgile CP was designed to simplify implementation, deployment, operations, and maintenance of cloud resources, enabling IT staff to be innovative and to accelerate your business' time-to-market and time-to-value.
 
