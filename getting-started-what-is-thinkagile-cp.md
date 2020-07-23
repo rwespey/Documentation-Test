@@ -12,6 +12,16 @@ has_children: true
 
 ThinkAgile CP is a private cloud software platform, purpose-built to deliver a full-fledged, all-in-one cloud infrastructure that is ready for use out of the box. With a premium implementation, deployment, operations, and management experience, ThinkAgile CP is easy, powerful, and able to accelerate your applications — supporting business initiatives and better outcomes. The platform operates free of any hardware-specific dependencies and is programmatically extensible.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
 ## How do I purchase it?
 
 ThinkAgile CP is sold either directly, through an OEM partner or a CSP/MSP. It is sold as a complete platform and includes all pre-validated application templates in the Lenovo Cloud Marketplace, the web-based Cloud Controller, networking, storage and compute blocks. The platform includes an API for the creation and re-factoring of applications so they can be made cloud-native, or you can also use your own licensed products.
